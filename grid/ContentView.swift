@@ -13,7 +13,7 @@ struct ContentView: View {
             GridRow {
                 Rectangle()
                     .fill(Color.white)
-                    .frame(width: 167.5, height: 143.5)
+                    .frame(width: 167.0, height:110)
                     .overlay(
                         Rectangle()
                             .stroke(Color.gray, lineWidth: 1)
